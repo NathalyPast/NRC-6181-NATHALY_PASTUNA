@@ -5,3 +5,5 @@ Buenas practicas de programación.
 - Estructura la arquitectura
 - Lee mucho código fuente
 - Coloca comentarios.
+Actualizar datos.
+Nathaly Pastuña Hola
